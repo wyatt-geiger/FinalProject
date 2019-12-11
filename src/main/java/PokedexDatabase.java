@@ -40,6 +40,8 @@ public class PokedexDatabase {
 
         List<Pokemon> allPokemon;
 
+        //
+
         String testy = "";
 
         Pokemon pokemonName = Pokemon.fromName(testy);
