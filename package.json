@@ -1,0 +1,8 @@
+{
+    "name": "resume-builder",
+    "description": "resume-builder-app",
+    "author": "Wyatt Geiger",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}

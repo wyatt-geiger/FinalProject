@@ -1,0 +1,23 @@
+{
+  "name": "resume-builder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "core-js": "^3.6.4",
+    "express": "^4.17.1",
+    "pg": "^8.2.0",
+    "sequelize": "^5.21.9",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "sqlite3": "^4.2.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
